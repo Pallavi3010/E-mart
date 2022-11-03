@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="hero">
       <div className="card bg-dark text-white border-0">
-        <img src="/assets/projectcart.jpg" className="card-img" alt="Baclground" height="550"/>
+        <img src="https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg?w=2000" className="card-img" alt="Baclground" height="550"/>
         <div className="card-img-overlay d-flex flex-column justify-content-center">
             <div className="container">
             <h5 className="card-title display-3 fw-bolder mb-0">NEW SEASON ARRIVALS</h5>
