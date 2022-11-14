@@ -20,7 +20,7 @@ It's a simple E-commerce application in react, it fetchs products from fakeserve
 
 ## Deployment
 
-https://pallavi3010.github.io/e-mart
+https://capable-kulfi-34ece7.netlify.app
 
 ## ScreenShots
 
